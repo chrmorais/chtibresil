@@ -9,10 +9,13 @@ Code source de Chti Brésil
 
 ** Installation
 
+Faire un fork du répo: [[https://github.com/marcwebbie/chtibresil/fork]]
+
 Sur le terminal:
 
 #+BEGIN_SRC shell
-git clone https://github.com/marcwebbie/chtibresil.git
+# Cloner repo. (Changer {USERNAME} par votre nom d'utilisateur)
+git clone https://github.com/{USERNAME}/chtibresil.git
 
 # Aller dans le code source
 cd chtibresil
