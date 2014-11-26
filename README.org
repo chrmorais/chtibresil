@@ -29,6 +29,8 @@ python manage.py runserver
 
 Acceder au serveur [[http://localhost:8000]]
 
+Accéder à l'interface administrateur: [[http://localhost:8000/admin]]
+
 ** License GPLv3
 
 #+BEGIN_EXAMPLE
