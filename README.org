@@ -27,7 +27,7 @@ python manage.py createdb
 python manage.py runserver
 #+END_SRC
 
-Acceder au serveur [[http://localhost:8000]]
+Accéder au serveur [[http://localhost:8000]]
 
 Accéder à l'interface administrateur: [[http://localhost:8000/admin]]
 
