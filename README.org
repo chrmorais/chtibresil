@@ -27,7 +27,7 @@ python manage.py createdb
 python manage.py runserver
 #+END_SRC
 
-Acceder au serveur [[localhost:8000]]
+Acceder au serveur [[http://localhost:8000]]
 
 ** License GPLv3
 
