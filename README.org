@@ -18,7 +18,7 @@ git clone https://github.com/marcwebbie/chtibresil.git
 cd chtibresil
 
 # Installer requirements
-pip install -r requirements.txt
+(sudo) pip install -r requirements.txt
 
 # Créer base de données
 python manage.py createdb
